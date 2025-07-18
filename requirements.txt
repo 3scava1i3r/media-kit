@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+tqdm
+selenium
+shot-scraper
+ffmpeg
+pyppeteer 
+websockets==8.1
